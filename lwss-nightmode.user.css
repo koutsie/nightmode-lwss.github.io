@@ -21,6 +21,9 @@ code {
 highlight .cm {
     color: #fff;
 }
+pre.highlight {
+    background-color: #2d2c2c;
+}
 div.highlight {
     background-color: #2d2c2c;
     border: 1px solid #2d2c2c;
@@ -40,18 +43,12 @@ footer {
     color: #ffff;
     background-color: #2d2c2c;
 }
-
-	
-/**
- * @name lwss-nightmode
- * @author notkoutsie
- * @version 0.0.1
- * @description Nightmode for lwss.github.io
- * @preprocessor default
-*/
-	
 /* 
 I simulated suicide many times. When it works, simulation ends. 
 - Unknown  
-*/
+*/	
 }
+
+	
+
+
