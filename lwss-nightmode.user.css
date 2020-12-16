@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name         Nigtmode-lwss
+@description  wss.github.io
+@namespace    colormodsig
+@version      0.1.0
+@preprocessor default
+==/UserStyle== */
+
 @-moz-document domain("lwss.github.io") {
 body {
     background: #000;
